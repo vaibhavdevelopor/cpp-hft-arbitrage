@@ -26,7 +26,8 @@ The system utilizes a **Producer-Consumer** model to minimize the "Tick-to-Trade
 4. **Signal Engine:** A dedicated analysis thread polls atomic state vectors and executes spreads in O(1) time.
 
 ## 📈 Live Benchmark
-<img width="1919" height="635" alt="image" src="https://github.com/user-attachments/assets/dc3ce591-eb33-4881-b3f6-bfd9d3989fb4" />
+<img width="620" height="356" alt="image" src="https://github.com/user-attachments/assets/fcc5c49b-9687-45ef-917e-6f29689381de" />
+
 
 ## Recent Bug Fixes & Hardening
 
